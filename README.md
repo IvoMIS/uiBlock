@@ -11,7 +11,7 @@ A lightweight jQuery plugin to block the targeted element in DOM. Mostly used fo
 - jQuery library version 1.7.0 and higher
 
 ### Installation
-- Install via [Bower](http://bower.io) ```bower install --save uiBlock```
+- Install via Bower - TBD
 - Download via [GitHub](https://github.com/im-s/uiBlock/archive/master.zip)
 
 ### Usage
